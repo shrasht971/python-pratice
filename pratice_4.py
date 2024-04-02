@@ -3,5 +3,6 @@
 
 # while number <=30:
 #     if number !=24:
-#         print(number, end=" ")
+#         print(number, end =" ")
 #         number +=1
+        
