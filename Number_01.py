@@ -28,4 +28,6 @@ print(word[1:4])             #characters from position 1(included) to 4(excluded
 print(word[:8])              #characters from the beginning to position 8(excluded)
 print(word[2:])              #characters from position 2(included) to  the end
 
-
+                        
+print(abs(-3))               #The abs() function can accept integer, float, or complex numbers as its argument and always returns a positive value.
+print(round(2.45))           #The round() function returns a floating-point number rounded to the specified number of decimals. 
